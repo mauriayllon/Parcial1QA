@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="p1Test.P1Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:29:58" hostname="Mauris-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="verify_something[0]" classname="p1Test.P1Test" time="0.001"/>
+  <testcase name="verify_something[1]" classname="p1Test.P1Test" time="0.0"/>
+  <testcase name="verify_something[2]" classname="p1Test.P1Test" time="0.0"/>
+  <system-out><![CDATA[-----> Before Class
+Before
+After
+Before
+After
+Before
+After
+-----> Before Class
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

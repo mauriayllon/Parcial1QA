@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="p2Test.P2Test" tests="15" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:29:58" hostname="Mauris-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="verify_something[0]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[1]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[2]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[3]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[4]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[5]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[6]" classname="p2Test.P2Test" time="0.001"/>
+  <testcase name="verify_something[7]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[8]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[9]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[10]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[11]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[12]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[13]" classname="p2Test.P2Test" time="0.0"/>
+  <testcase name="verify_something[14]" classname="p2Test.P2Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

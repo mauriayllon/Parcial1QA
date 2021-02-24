@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="p5Test.P5Test" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:29:57" hostname="Mauris-MacBook-Pro.local" time="0.729">
+  <properties/>
+  <testcase name="verify_calculate_amount[0]" classname="p5Test.P5Test" time="0.706"/>
+  <testcase name="verify_calculate_amount[1]" classname="p5Test.P5Test" time="0.002"/>
+  <testcase name="verify_calculate_amount[2]" classname="p5Test.P5Test" time="0.002"/>
+  <testcase name="verify_calculate_amount[3]" classname="p5Test.P5Test" time="0.002"/>
+  <testcase name="verify_calculate_amount[4]" classname="p5Test.P5Test" time="0.002"/>
+  <testcase name="verify_calculate_amount[5]" classname="p5Test.P5Test" time="0.003"/>
+  <testcase name="verify_calculate_amount[6]" classname="p5Test.P5Test" time="0.003"/>
+  <testcase name="verify_calculate_amount[7]" classname="p5Test.P5Test" time="0.002"/>
+  <testcase name="verify_calculate_amount[8]" classname="p5Test.P5Test" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Detected late test-suite preparation of already initiated test-class p5Test.P5Test
+]]></system-err>
+</testsuite>
